@@ -1,0 +1,122 @@
+
+body{
+    background-image: linear-gradient(rgb(93, 129, 160), rgb(235, 235, 27));
+    margin:1%;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size:30px;
+    
+}
+
+.Top-Container{
+    text-align: center;
+}
+
+#idLinkedInIcon{background-color:rgb(0, 102, 170);border-radius:6px;color:white;cursor:pointer;display:inline-block;font:bold 35px Arial, Helvetica, sans-serif;height:40px;margin-top:1px;text-align:center;width:40px;}
+#idLinkedInIcon:hover{background-color:#06d;}
+#idLinkedInIcon{margin-left:2%;}
+
+
+.profile{
+    background-image:url("DSC-0099.JPG");
+}
+h1{
+    margin:100px auto 0 auto;
+    margin-top:50px auto 0 auto;
+    color:#1818a5;
+}
+h2{
+        color: #4682B4;
+        text-align: left;
+        margin:0 auto 0 15%;
+}
+
+
+.Top-Container{
+    position: relative;
+    padding-top:50px;
+}
+
+.dp-img{
+    width:13%;
+        float: left;
+        margin-right :30px;
+
+        
+        
+}    
+.SKILL{
+    width:18%;
+    float: right;
+    margin-right:30px;
+ }   
+.list1{
+    line-height:2;
+    text-align: left;
+    margin:0 auto 0 15%;
+}
+
+.contact{
+    width:15%;
+    float:left;
+    margin-left:30px;
+    
+
+}
+
+
+.c1{
+    text-align: left;
+}
+.c2{
+    text-align: left;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 24;
+    -moz-border-radius: 24;
+    border-radius: 24px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.bottom-container{
+    margin-top:4%;
+    margin-left:17%;
+}
+.footer-link{
+    text-align:center;
+    
+}
+.contact-me{
+    background-image:url('DSC-0099.JPG');
+}
+
